@@ -7,11 +7,11 @@
 
 - 💬 Me pergunte sobre **Python, SQL, Power BI e Excel**
 
-- 📫 Você me acha através de **ceci.bonfim@gmail. com**
+- 📫 Você me acha através de **ceci.bonfim@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin. com/in/cec%c3%adlia-bonfim-338a0a258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www. linkedin.com/in/cec%c3%adlia-bonfim-338a0a258/" altura="30" largura="40" /></a>
+<a href="https://www.linkedin. com/in/cec%c3%adlia-bonfim-338a0a258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www. linkedin.com/in/cec%c3%adlia-bonfim-338a0a258/" altura="30" largura="40" /></a>
 <a href="https://instagram.com/https:// www.instagram.com/_cecei/profilecard/?igsh=ngrqd211m2s4yznp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_cecei/profilecard/?igsh=ngrqd211m2s4yznp" altura="30" largura="40" /></a>
 </p>
 
